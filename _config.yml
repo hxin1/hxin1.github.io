@@ -17,12 +17,12 @@ title: Hxin's blog
 email: zhanghuixin2004712@icloud.com
 name: Amy
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here.
+  Welcome to my blog! I hope to share my thoughts in this place, which will be about artworks of paintings, social facts, personal projects, and other aspects.
 keywords: [Your keywords]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-domain: "example.com" # the domain name for your site, e.g. example.com
-language: zh-cn
+domain: "_hxin_.com" # the domain name for your site, e.g. example.com
+language: en
 # Supported languages list:
 # en: English
 # de: Deutsche (German)
